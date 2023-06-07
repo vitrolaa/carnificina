@@ -1,0 +1,64 @@
+body {
+    
+    margin-top: 100px;
+    margin-bottom: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-image: linear-gradient(180deg, rgb(65, 2, 2), rgb(5, 5, 5));
+    /*background-color: aqua;*/
+    
+}
+
+#titulo {
+color: crimson;
+    border: 12px solid rgb(255, 255, 255);
+    font-size: 200px;
+    font-family: 'Chokokutai', cursive;
+
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    text-decoration: underline;
+    font-size: xxx-large;
+    font-family: 'Chokokutai', cursive;
+    color: crimson;
+    
+}
+
+p {
+    font-size: larger;
+    text-indent: 20px;
+    color: aliceblue;
+}
+
+ul {
+    font-size: larger;
+    color: aliceblue;
+}
+h3{
+    text-indent: 20px;
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+    color: crimson;
+}
+#historia{
+    font-size: xxx-large;
+    font-family: 'Chokokutai', cursive;
+    color: crimson;
+    text-decoration: underline;
+}
+tr{
+    color: white;
+    background-color:rgb(255, 34, 78)
+    
+}
+#alguns{
+    font-family: 'Chokokutai', cursive;
+    text-decoration: underline;
+    font-size: xxx-large;
+
+}
